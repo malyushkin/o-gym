@@ -83,6 +83,6 @@ s = Solution()
 params1 = {"candies": [2, 3, 5, 1, 3], "extraCandies": 3}
 params2 = {"candies": [4, 2, 1, 1, 2], "extraCandies": 1}
 
-assert s.kidsWithCandies(**params1) == [True, True, True, False, True]
+assert s.kidsWithCandies(**params1) == [True, True, True, False, True] # [Core] dict unpacking
 assert s.kidsWithCandies(**params2) == [True, False, False, False, False]
 # leetcode submit region end(Prohibit modification and deletion)
