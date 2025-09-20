@@ -8,6 +8,6 @@ commonly asked in technical interviews.
 
 **Array / String**
 
-- [1071.py](1071.py) `Easy`
 - [1768.py](1768.py) `Easy`
+- [1071.py](1071.py) `Easy`
 - 
