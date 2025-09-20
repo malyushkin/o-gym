@@ -11,4 +11,7 @@ commonly asked in technical interviews.
 - [1768.py](1768.py) `Easy`
 - [1071.py](1071.py) `Easy`
 - [1431.py](1071.py) `Easy`
-- [151.py](151.py) `Medium`
+- [151.py](151.py) `Medium
+
+**Two Pointers**
+
