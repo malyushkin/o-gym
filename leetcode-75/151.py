@@ -84,7 +84,7 @@ class Solution(object):
         # ----------------------------------------------------------
         # 2nd idea: optimized / Pythonic approach
         # ----------------------------------------------------------
-        # 2nd approach
+        #
         words = s.split()
         return " ".join(reversed(words))  # [Core] reversed
 
