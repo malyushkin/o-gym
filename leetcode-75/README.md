@@ -16,5 +16,8 @@ commonly asked in technical interviews.
 
 **Two Pointers**
 
-- [392.py](392.py) `Easy`
+- [392. Is Subsequence](392.py) `Easy`
 
+**Sliding Window**
+
+- [643. Maximum Average Subarray I](643.py) `Easy`
