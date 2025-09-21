@@ -8,10 +8,13 @@ commonly asked in technical interviews.
 
 **Array / String**
 
-- [1768.py](1768.py) `Easy`
-- [1071.py](1071.py) `Easy`
-- [1431.py](1071.py) `Easy`
-- [151.py](151.py) `Medium
+- [1768. Merge Strings Alternately](1768.py) `Easy`
+- [1071. Greatest Common Divisor of Strings](1071.py) `Easy`
+- [1431. Kids With the Greatest Number of Candies](1071.py) `Easy`
+- [605. Can Place Flowers](605.py) `Easy`
+- [151. Reverse Words in a String](151.py) `Medium`
 
 **Two Pointers**
+
+- [392.py](392.py) `Easy`
 
