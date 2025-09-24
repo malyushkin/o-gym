@@ -12,6 +12,7 @@ commonly asked in technical interviews.
 - [1071. Greatest Common Divisor of Strings](1071.py) `Easy`
 - [1431. Kids With the Greatest Number of Candies](1071.py) `Easy`
 - [605. Can Place Flowers](605.py) `Easy`
+- [345. Reverse Vowels of a String](345.py) `Easy`
 - [151. Reverse Words in a String](151.py) `Medium`
 
 **Two Pointers**
