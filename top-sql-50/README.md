@@ -18,3 +18,4 @@ commonly tested in technical interviews.
 **Advanced Select and Joins**
 
 - [180. Consecutive Numbers](180.sql) `Medium`
+- [1164. Product Price at a Given Date](1164.sql) `Medium`
