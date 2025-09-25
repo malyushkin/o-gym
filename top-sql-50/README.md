@@ -12,6 +12,7 @@ commonly tested in technical interviews.
 
 **Basic Joins**
 
+- [1280. Students and Examinations](1280.sql) `Easy`
 - [570. Managers with at Least 5 Direct Reports](570.sql) `Medium`
 - [1934. Confirmation Rate](1934.sql) `Meduim`
 
