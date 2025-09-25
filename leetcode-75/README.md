@@ -24,3 +24,7 @@ commonly asked in technical interviews.
 **Sliding Window**
 
 - [643. Maximum Average Subarray I](643.py) `Easy`
+
+**Prefix Sum**
+- [1732. Find the Highest Altitude](1732.py) `Easy`
+- 
