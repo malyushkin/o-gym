@@ -9,12 +9,18 @@ commonly tested in technical interviews.
 **Select**
 
 - [1757. Recyclable and Low Fat Products](1757.sql) `Easy`
+- [584. Find Customer Referee](584.sql) `Easy`
+- [595. Big Countries](595.sql) `Easy`
 
 **Basic Joins**
 
 - [1280. Students and Examinations](1280.sql) `Easy`
 - [570. Managers with at Least 5 Direct Reports](570.sql) `Medium`
 - [1934. Confirmation Rate](1934.sql) `Meduim`
+
+**Basic Aggregate Functions**
+
+- [620. Not Boring Movies](620.sql) `Easy`
 
 **Advanced Select and Joins**
 
