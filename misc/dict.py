@@ -1,3 +1,4 @@
+# sort dict by nested value(s)
 people = {
     "Bob": {"age": 15, "country": "Canada"},
     "Alice": {"age": 30, "country": "USA"},
@@ -6,7 +7,6 @@ people = {
     "Ethan": {"age": 30, "country": "Australia"}
 }
 
-# sort and keep as an ordered dict
 sorted_people = dict(
     sorted(
         people.items(),
