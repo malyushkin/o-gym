@@ -16,6 +16,7 @@ commonly asked in technical interviews.
 - [151. Reverse Words in a String](151.py) `Medium`
 - [238. Product of Array Except Self](151.py) `Medium`
 - [334. Increasing Triplet Subsequence](334.py) `Medium`
+- [443. String Compression](443.py) `Medium`
 
 **Two Pointers**
 
@@ -26,5 +27,6 @@ commonly asked in technical interviews.
 - [643. Maximum Average Subarray I](643.py) `Easy`
 
 **Prefix Sum**
+
 - [1732. Find the Highest Altitude](1732.py) `Easy`
 - 
