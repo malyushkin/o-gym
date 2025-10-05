@@ -8,7 +8,7 @@ data-related technical interviews.
 
 For all solutions PostgreSQL mechanism used.
 
-![Total Progress](https://img.shields.io/badge/Total_Progress-10%2F50_(20%25)-blue)
+![Total Progress](https://img.shields.io/badge/Total_Progress-12%2F50_(24%25)-blue)
 
 ## Select
 
@@ -38,9 +38,9 @@ For all solutions PostgreSQL mechanism used.
 (1/8)  
 ![Progress](https://img.shields.io/badge/Progress-12%25-red)
 
-| #   | Problem           | Level | Solution           |
-|-----|-------------------|-------|--------------------|
-| 620 | Not Boring Movies | Easy  | [620.sql](620.sql) |
+| #   | Problem           | Level  | Solution           |
+|-----|-------------------|--------|--------------------|
+| 620 | Not Boring Movies | `Easy` | [620.sql](620.sql) |
 
 ## Sorting and Grouping
 
@@ -50,18 +50,18 @@ _Solving coming soon..._
 
 ## Advanced Select and Joins
 
-(3/7)  
+(4/7)  
 ![Progress](https://img.shields.io/badge/Progress-43%25-yellow)
 
-| #    | Problem                                               | Level  | Solution             |
-|------|-------------------------------------------------------|--------|----------------------|
-| 1731 | The Number of Employees Which Report to Each Employee | Easy   | [1731.sql](1731.sql) |
-| 1789 | Primary Department for Each Employee                  | Easy   | 1789.sql             |
-| 610  | Triangle Judgement                                    | Easy   | 610.sql              |
-| 180  | Consecutive Numbers                                   | Medium | [180.sql](180.sql)   |
-| 1164 | Product Price at a Given Date                         | Medium | [1164.sql](1164.sql) |
-| 1204 | Last Person to Fit in the Bus                         | Medium | 1204.sql             |
-| 1907 | Count Salary Categories                               | Medium | 1907.sql             |
+| #    | Problem                                               | Level    | Solution             |
+|------|-------------------------------------------------------|----------|----------------------|
+| 1731 | The Number of Employees Which Report to Each Employee | `Easy`   | [1731.sql](1731.sql) |
+| 1789 | Primary Department for Each Employee                  | `Easy`   | [1789.sql](1789.sql) |
+| 610  | Triangle Judgement                                    | `Easy`   | 610.sql              |
+| 180  | Consecutive Numbers                                   | `Medium` | [180.sql](180.sql)   |
+| 1164 | Product Price at a Given Date                         | `Medium` | [1164.sql](1164.sql) |
+| 1204 | Last Person to Fit in the Bus                         | `Medium` | 1204.sql             |
+| 1907 | Count Salary Categories                               | `Medium` | 1907.sql             |
 
 ## Subqueries
 
