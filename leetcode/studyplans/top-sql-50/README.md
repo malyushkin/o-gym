@@ -1,6 +1,6 @@
 # LeetCode SQL 50 Solutions
 
-![Total Progress](https://img.shields.io/badge/Total_Progress-12%2F50_(24%25)-blue)
+![Total Progress](https://img.shields.io/badge/Total_Progress-14%2F50_(28%25)-blue)
 
 This repository contains my solutions to the [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/) study
 plan. The SQL 50 is a curated list of 50 SQL problems designed to strengthen query writing skills frequently tested in
@@ -10,8 +10,8 @@ All solutions are implemented using [PostgreSQL](https://www.postgresql.org/) sy
 
 ## Select
 
-(4/5)  
-![Progress](https://img.shields.io/badge/Progress-80%25-brightgreen)
+(5/5)  
+![Progress](https://img.shields.io/badge/Progress-100%25-brightgreen)
 
 | #    | Problem                         | Level  | Solution             |
 |------|---------------------------------|--------|----------------------|
