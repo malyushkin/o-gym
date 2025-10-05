@@ -15,38 +15,61 @@ For all solutions PostgreSQL mechanism used.
 (4/5)  
 ![Progress](https://img.shields.io/badge/Progress-80%25-brightgreen)
 
-| #    | Problem                         | Level | Solution             |
-|------|---------------------------------|-------|----------------------|
-| 1757 | Recyclable and Low Fat Products | Easy  | [1757.sql](1757.sql) |
-| 584  | Find Customer Referee           | Easy  | [584.sql](584.sql)   |
-| 595  | Big Countries                   | Easy  | [595.sql](595.sql)   |
-| 1148 | Article Views I                 | Easy  | [1148.sql](1148.sql) |
+| #     | Problem                         | Level | Solution             |
+|-------|---------------------------------|-------|----------------------|
+| 1757  | Recyclable and Low Fat Products | Easy  | [1757.sql](1757.sql) |
+| 584   | Find Customer Referee           | Easy  | [584.sql](584.sql)   |
+| 595   | Big Countries                   | Easy  | [595.sql](595.sql)   |
+| 1148  | Article Views I                 | Easy  | [1148.sql](1148.sql) |
+| _TBA_ |                                 |       |                      |
 
 ## Basic Joins
 
 (3/9)  
 ![Progress](https://img.shields.io/badge/Progress-33%25-yellow)
 
-| #    | Problem                                 | Level  | Solution             |
-|------|-----------------------------------------|--------|----------------------|
-| 1280 | Students and Examinations               | Easy   | [1280.sql](1280.sql) |
-| 570  | Managers with at Least 5 Direct Reports | Medium | [570.sql](570.sql)   |
-| 1934 | Confirmation Rate                       | Medium | [1934.sql](1934.sql) |
+| #     | Problem                                 | Level  | Solution             |
+|-------|-----------------------------------------|--------|----------------------|
+| 1280  | Students and Examinations               | Easy   | [1280.sql](1280.sql) |
+| 570   | Managers with at Least 5 Direct Reports | Medium | [570.sql](570.sql)   |
+| 1934  | Confirmation Rate                       | Medium | [1934.sql](1934.sql) |
+| _TBA_ |                                         |        |                      |
+| _TBA_ |                                         |        |                      |
+| _TBA_ |                                         |        |                      |
+| _TBA_ |                                         |        |                      |
+| _TBA_ |                                         |        |                      |
+| _TBA_ |                                         |        |                      |
 
 ## Basic Aggregate Functions
 
-(1/8)  
-![Progress](https://img.shields.io/badge/Progress-12%25-red)
+(2/8)  
+![Progress](https://img.shields.io/badge/Progress-25%25-yellow)
 
-| #   | Problem           | Level  | Solution           |
-|-----|-------------------|--------|--------------------|
-| 620 | Not Boring Movies | `Easy` | [620.sql](620.sql) |
+| #     | Problem               | Level  | Solution             |
+|-------|-----------------------|--------|----------------------|
+| 620   | Not Boring Movies     | `Easy` | [620.sql](620.sql)   |
+| 1251  | Average Selling Price | `Easy` | [1251.sql](1251.sql) |
+| _TBA_ |                       |        |                      |
+| _TBA_ |                       |        |                      |
+| _TBA_ |                       |        |                      |
+| _TBA_ |                       |        |                      |
+| _TBA_ |                       |        |                      |
+| _TBA_ |                       |        |                      |
 
 ## Sorting and Grouping
 
 (0/7)  
-![Progress](https://img.shields.io/badge/Progress-0%25-red)  
-_Solving coming soon..._
+![Progress](https://img.shields.io/badge/Progress-0%25-red)
+
+| #     | Problem | Level | Solution |
+|-------|---------|-------|----------|
+| _TBA_ |         |       |          |
+| _TBA_ |         |       |          |
+| _TBA_ |         |       |          |
+| _TBA_ |         |       |          |
+| _TBA_ |         |       |          |
+| _TBA_ |         |       |          |
+| _TBA_ |         |       |          |
 
 ## Advanced Select and Joins
 
@@ -74,3 +97,6 @@ _Solving coming soon..._
 (0/7)  
 ![Progress](https://img.shields.io/badge/Progress-0%25-red)  
 _Solving coming soon..._
+
+
+
