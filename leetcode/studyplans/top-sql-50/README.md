@@ -1,6 +1,6 @@
 # LeetCode SQL 50 Solutions
 
-![Total Progress](https://img.shields.io/badge/Total_Progress-14%2F50_(28%25)-blue)
+![Total Progress](https://img.shields.io/badge/Total_Progress-16%2F50_(32%25)-blue)
 
 This repository contains my solutions to the [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/) study
 plan. The SQL 50 is a curated list of 50 SQL problems designed to strengthen query writing skills frequently tested in
@@ -23,20 +23,20 @@ All solutions are implemented using [PostgreSQL](https://www.postgresql.org/) sy
 
 ## Basic Joins
 
-(3/9)  
-![Progress](https://img.shields.io/badge/Progress-33%25-yellow)
+(5/9)  
+![Progress](https://img.shields.io/badge/Progress-55.6%25-yellowgreen)
 
-| #     | Problem                                 | Level    | Solution             |
-|-------|-----------------------------------------|----------|----------------------|
-| 1280  | Students and Examinations               | `Easy`   | [1280.sql](1280.sql) |
-| 570   | Managers with at Least 5 Direct Reports | `Medium` | [570.sql](570.sql)   |
-| 1934  | Confirmation Rate                       | `Medium` | [1934.sql](1934.sql) |
-| _TBA_ |                                         |          |                      |
-| _TBA_ |                                         |          |                      |
-| _TBA_ |                                         |          |                      |
-| _TBA_ |                                         |          |                      |
-| _TBA_ |                                         |          |                      |
-| _TBA_ |                                         |          |                      |
+| #    | Problem                                                | Level    | Solution             |
+|------|--------------------------------------------------------|----------|----------------------|
+| 1378 | Replace Employee ID With The Unique Identifier         | `Easy`   | [1378.sql](1378.sql) |
+| 1068 | Product Sales Analysis I                               | `Easy`   | [1068.sql](1068.sql) |
+| 1581 | Customer Who Visited but Did Not Make Any Transactions | `Easy`   | _TBA_                |
+| 197  | Rising Temperature                                     | `Easy`   | _TBA_                |
+| 1661 | Average Time of Process per Machine                    | `Easy`   | _TBA_                |
+| 577  | Employee Bonus                                         | `Easy`   | _TBA_                |
+| 1280 | Students and Examinations                              | `Easy`   | [1280.sql](1280.sql) |
+| 570  | Managers with at Least 5 Direct Reports                | `Medium` | [570.sql](570.sql)   |
+| 1934 | Confirmation Rate                                      | `Medium` | [1934.sql](1934.sql) |
 
 ## Basic Aggregate Functions
 
