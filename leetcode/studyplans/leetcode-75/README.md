@@ -1,6 +1,6 @@
 # LeetCode 75 Solutions
 
-![Total Progress](https://img.shields.io/badge/Total_Progress-12%2F75_(16%25)-blue)
+![Total Progress](https://img.shields.io/badge/Total_Progress-15%2F75_(20%25)-blue)
 
 This repository contains my solutions to the [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) study plan.  
 LeetCode 75 is a curated list of 75 problems designed to build a strong foundation in data structures and algorithms
@@ -25,30 +25,46 @@ commonly asked in technical interviews.
 
 ## Two Pointers
 
-(2/4)  
-![Progress](https://img.shields.io/badge/Progress-50%25-yellowgreen)
+(3/4)  
+![Progress](https://img.shields.io/badge/Progress-75%25-green)
 
 | #    | Problem                   | Level    | Solution         |
 |------|---------------------------|----------|------------------|
 | 283  | Move Zeroes               | `Easy`   | [283.py](283.py) |
 | 392  | Is Subsequence            | `Easy`   | [392.py](392.py) |
-| 11   | Container With Most Water | `Medium` | _TBA_            |
+| 11   | Container With Most Water | `Medium` | [11.py](11.py)   |
 | 1679 | Max Number of K-Sum Pairs | `Medium` | _TBA_            |
 
 ## Sliding Window
 
-(1/1)  
+(1/4)  
 ![Progress](https://img.shields.io/badge/Progress-100%25-brightgreen)
 
-| #   | Problem                    | Level  | Solution         |
-|-----|----------------------------|--------|------------------|
-| 643 | Maximum Average Subarray I | `Easy` | [643.py](643.py) |
+| #     | Problem                    | Level  | Solution         |
+|-------|----------------------------|--------|------------------|
+| 643   | Maximum Average Subarray I | `Easy` | [643.py](643.py) |
+| _TBA_ |                            |        | _TBA_            |
+| _TBA_ |                            |        | _TBA_            |
+| _TBA_ |                            |        | _TBA_            |
 
 ## Prefix Sum
 
-(1/1)  
-![Progress](https://img.shields.io/badge/Progress-100%25-brightgreen)
+(1/2)  
+![Progress](https://img.shields.io/badge/Progress-50%25-yellowgreen)
 
-| #    | Problem                   | Level  | Solution           |
-|------|---------------------------|--------|--------------------|
-| 1732 | Find the Highest Altitude | `Easy` | [1732.py](1732.py) |
+| #     | Problem                   | Level  | Solution           |
+|-------|---------------------------|--------|--------------------|
+| 1732  | Find the Highest Altitude | `Easy` | [1732.py](1732.py) |
+| _TBA_ |                           |        | _TBA_              |
+
+## Hash Map / Set
+
+(1/4)  
+![Progress](https://img.shields.io/badge/Progress-25%25-yellow)
+
+| #    | Problem                            | Level    | Solution           |
+|------|------------------------------------|----------|--------------------|
+| 2215 | Find the Difference of Two Arrays  | `Easy`   | [2215.py](2216.py) |
+| 1207 | Unique Number of Occurrences       | `Easy`   | _TBA_              |
+| 1657 | Determine if Two Strings Are Close | `Medium` | _TBA_              |
+| 2352 | Equal Row and Column Pairs         | `Medium` | _TBA_              |
