@@ -64,7 +64,7 @@ commonly asked in technical interviews.
 
 | #    | Problem                            | Level    | Solution           |
 |------|------------------------------------|----------|--------------------|
-| 2215 | Find the Difference of Two Arrays  | `Easy`   | [2215.py](2216.py) |
+| 2215 | Find the Difference of Two Arrays  | `Easy`   | [2215.py](2215.py) |
 | 1207 | Unique Number of Occurrences       | `Easy`   | _TBA_              |
 | 1657 | Determine if Two Strings Are Close | `Medium` | _TBA_              |
 | 2352 | Equal Row and Column Pairs         | `Medium` | _TBA_              |
