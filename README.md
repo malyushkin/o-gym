@@ -4,4 +4,4 @@
 
 | Platform | Plan | Solved | Progress |
 |----------|------|--------|----------|
-| leetcode | [LeetCode 75](leetcode/studyplans/leetcode-75/README.md) | **15/75** | ![Progress](https://img.shields.io/badge/Progress-20%25-orange) |
+| LeetCode | [LeetCode 75](leetcode/studyplans/leetcode-75/README.md) | **15/75** | ![Progress](https://img.shields.io/badge/Progress-20%25-orange) |
