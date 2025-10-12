@@ -12,9 +12,14 @@ dependencies = [
 
 [build-system]
 requires = [
-    "setuptools>=61.0"
+    "setuptools>=61.0",
 ]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
 packages = []
+
+[project.optional-dependencies]ф
+dev = [
+    "pre-commit>=3.0"б
+]
