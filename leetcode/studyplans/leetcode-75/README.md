@@ -1,6 +1,6 @@
 # LeetCode 75
 
-![Total_Progress](https://img.shields.io/badge/Total_Progress-15%2F75%20%2820%25%29-blue)
+![Total_Progress](https://img.shields.io/badge/Total_Progress-14%2F75%20%2819%25%29-blue)
 
 This repository contains my solutions to the [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/).
 
@@ -25,14 +25,14 @@ LeetCode 75 is a curated list of 75 problems designed to build a strong foundati
 
 ## Two Pointers
 
-(3/4)  
-![Progress](https://img.shields.io/badge/Progress-75%25-green)
+(2/4)  
+![Progress](https://img.shields.io/badge/Progress-50%25-yellowgreen)
 
 | #    | Problem | Level | Solution |
 |------|---------|-------|----------|
 | 283  | Move Zeroes | `Easy` | [283.py](283_easy.py) |
 | 392  | Is Subsequence | `Easy` | [392.py](392_easy.py) |
-| 11   | Container With Most Water | `Medium` | [11.py](11_medium.py) |
+| 11   | Container With Most Water | `Medium` | _TBA_ |
 | 1679 | Max Number of K-Sum Pairs | `Medium` | _TBA_ |
 
 ## Sliding Window
