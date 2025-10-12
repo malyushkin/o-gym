@@ -3,7 +3,7 @@ repos:
     hooks:
       - id: generate-readme
         name: Generate README from solutions
-        entry: bash -c 'python utils/generate_readme.py && git add README.md'
+        entry: bash -c 'python utils/generate_readme.py && git add README.md **/README.md'
         language: system
         pass_filenames: false
         stages: [ commit ]
