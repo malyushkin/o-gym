@@ -19,8 +19,8 @@ IGNORE_DIRS = {
     "venv",
 }
 
-# Match 123.py or 123_easy.py / 123_medium.py / 123_hard.py
-PY_FILE = re.compile(r"^(\d+)(?:_(easy|medium|hard))?\.py$", re.I)
+# Match easy_123.py / medium_123.py / hard_123.py
+PY_FILE = re.compile(r"^(easy|medium|hard)_(\d+)\.py$", re.I)
 
 
 def pct(a: int, b: int) -> int:
@@ -61,11 +61,14 @@ def scan_solutions(plan_dir: pathlib.Path) -> dict:
             m = PY_FILE.match(fn)
             if not m:
                 continue
-            pid = int(m.group(1))
-            lvl = (m.group(2) or "").lower() or None
+
+            lvl = (m.group(1) or "").lower() or None
+            pid = int(m.group(2))
             rel = str(pathlib.Path(dp, fn).relative_to(plan_dir)).replace("\\", "/")
+
             if pid not in found:  # first wins
                 found[pid] = {"path": rel, "level": lvl}
+
     return found
 
 
