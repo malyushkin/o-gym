@@ -1,6 +1,6 @@
 # LeetCode 75
 
-![Total_Progress](https://img.shields.io/badge/Total_Progress-17%2F75%20%2823%25%29-blue)
+![Total_Progress](https://img.shields.io/badge/Total_Progress-18%2F75%20%2824%25%29-blue)
 
 This repository contains my solutions to the [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/).
 
@@ -59,15 +59,15 @@ LeetCode 75 is a curated list of 75 problems designed to build a strong foundati
 
 ## Hash Map / Set
 
-(3/4)  
-![Progress](https://img.shields.io/badge/Progress-75%25-green)
+(4/4)  
+![Progress](https://img.shields.io/badge/Progress-100%25-brightgreen)
 
 | #    | Problem | Level | Solution |
 |------|---------|-------|----------|
 | 2215 | Find the Difference of Two Arrays | `Easy` | [2215.py](easy_2215.py) |
 | 1207 | Unique Number of Occurrences | `Easy` | [1207.py](easy_1207.py) |
 | 1657 | Determine if Two Strings Are Close | `Medium` | [1657.py](medium_1657.py) |
-| 2352 | Equal Row and Column Pairs | `Medium` | _TBA_ |
+| 2352 | Equal Row and Column Pairs | `Medium` | [2352.py](medium_2352.py) |
 
 ## Stack
 
