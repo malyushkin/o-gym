@@ -1,0 +1,149 @@
+name: "LeetCode 75"
+platform: "leetcode"
+url: "https://leetcode.com/studyplan/leetcode-75/"
+description: >
+  LeetCode 75 is a curated list of 75 problems designed to build a strong foundation in data structures and algorithms 
+  commonly asked in technical interviews. This plan covers key topics such as arrays, strings, two pointers, 
+  sliding windows, prefix sums, hash maps/sets, and more.
+
+sections:
+  - name: "Array / String"
+    problems:
+      - { id: 1768, title: "Merge Strings Alternately", level: "Easy" }
+      - { id: 1071, title: "Greatest Common Divisor of Strings", level: "Easy" }
+      - { id: 1431, title: "Kids With the Greatest Number of Candies", level: "Easy" }
+      - { id: 605,  title: "Can Place Flowers", level: "Easy" }
+      - { id: 345,  title: "Reverse Vowels of a String", level: "Easy" }
+      - { id: 151,  title: "Reverse Words in a String", level: "Medium" }
+      - { id: 238,  title: "Product of Array Except Self", level: "Medium" }
+      - { id: 334,  title: "Increasing Triplet Subsequence", level: "Medium" }
+      - { id: 443,  title: "String Compression", level: "Medium" }
+
+  - name: "Two Pointers"
+    problems:
+      - { id: 283,  title: "Move Zeroes", level: "Easy" }
+      - { id: 392,  title: "Is Subsequence", level: "Easy" }
+      - { id: 11,   title: "Container With Most Water", level: "Medium" }
+      - { id: 1679, title: "Max Number of K-Sum Pairs", level: "Medium" }
+
+  - name: "Sliding Window"
+    problems:
+      - { id: 643,  title: "Maximum Average Subarray I", level: "Easy" }
+      - { id: 1456, title: "Maximum Number of Vowels in a Substring of Given Length", level: "Medium" }
+      - { id: 1004, title: "Max Consecutive Ones III", level: "Medium" }
+      - { id: 1493, title: "Longest Subarray of 1's After Deleting One Element", level: "Medium" }
+
+  - name: "Prefix Sum"
+    problems:
+      - { id: 1732, title: "Find the Highest Altitude", level: "Easy" }
+      - { id: 724,  title: "Find Pivot Index", level: "Easy" }
+
+  - name: "Hash Map / Set"
+    problems:
+      - { id: 2215, title: "Find the Difference of Two Arrays", level: "Easy" }
+      - { id: 1207, title: "Unique Number of Occurrences", level: "Easy" }
+      - { id: 1657, title: "Determine if Two Strings Are Close", level: "Medium" }
+      - { id: 2352, title: "Equal Row and Column Pairs", level: "Medium" }
+
+  - name: "Stack"
+    problems:
+      - { id: 2390, title: "Removing Stars From a String", level: "Medium" }
+      - { id: 735, title: "Asteroid Collision", level: "Medium" }
+      - { id: 394, title: "Decode String", level: "Medium" }
+
+  - name: "Queue"
+    problems:
+      - { id: 933, title: "Number of Recent Calls", level: "Easy" }
+      - { id: 649, title: "Dota2 Senate", level: "Medium" }
+
+  - name: "Linked List"
+    problems:
+      - { id: 2095, title: "Delete the Middle Node of a Linked List", level: "Medium" }
+      - { id: 328,  title: "Odd Even Linked List", level: "Medium" }
+      - { id: 206,  title: "Reverse Linked List", level: "Easy" }
+      - { id: 2130, title: "Maximum Twin Sum of a Linked List", level: "Medium" }
+
+  - name: "Binary Tree - DFS"
+    problems:
+      - { id: 104,  title: "Maximum Depth of Binary Tree", level: "Easy" }
+      - { id: 872,  title: "Leaf-Similar Trees", level: "Easy" }
+      - { id: 1448, title: "Count Good Nodes in Binary Tree", level: "Medium" }
+      - { id: 437,  title: "Path Sum III", level: "Medium" }
+      - { id: 1372, title: "Longest ZigZag Path in a Binary Tree", level: "Medium" }
+      - { id: 236,  title: "Lowest Common Ancestor of a Binary Tree", level: "Medium" }
+
+  - name: "Binary Tree - BFS"
+    problems:
+      - { id: 199,  title: "Binary Tree Right Side View", level: "Medium" }
+      - { id: 1161, title: "Maximum Level Sum of a Binary Tree", level: "Medium" }
+
+  - name: "Binary Search Tree"
+    problems:
+      - { id: 700,  title: "Search in a Binary Search Tree", level: "Easy" }
+      - { id: 450,  title: "Delete Node in a BST", level: "Medium" }
+
+  - name: "Graphs - DFS"
+    problems:
+      - { id: 841,  title: "Keys and Rooms", level: "Medium" }
+      - { id: 547,  title: "Number of Provinces", level: "Medium" }
+      - { id: 1466, title: "Reorder Routes to Make All Paths Lead to the City Zero", level: "Medium" }
+      - { id: 399,  title: "Evaluate Division", level: "Medium" }
+
+  - name: "Graphs - BFS"
+    problems:
+      - { id: 1926, title: "Nearest Exit from Entrance in Maze", level: "Medium" }
+      - { id: 994,  title: "Rotting Oranges", level: "Medium" }
+
+  - name: "Heap / Priority Queue"
+    problems:
+      - { id: 215,  title: "Kth Largest Element in an Array", level: "Medium" }
+      - { id: 2336, title: "Smallest Number in Infinite Set", level: "Medium" }
+      - { id: 2542, title: "Maximum Subsequence Score", level: "Medium" }
+      - { id: 2462, title: "Total Cost to Hire K Workers", level: "Medium" }
+
+  - name: "Binary Search"
+    problems:
+      - { id: 374,  title: "Guess Number Higher or Lower", level: "Easy" }
+      - { id: 2300, title: "Successful Pairs of Spells and Potions", level: "Medium" }
+      - { id: 162,  title: "Find Peak Element", level: "Medium" }
+      - { id: 875,  title: "Koko Eating Bananas", level: "Medium" }
+
+  - name: "Backtracking"
+    problems:
+      - { id: 17,   title: "Letter Combinations of a Phone Number", level: "Medium" }
+      - { id: 216,  title: "Combination Sum III", level: "Medium" }
+
+  - name: "DP - 1D"
+    problems:
+      - { id: 1137, title: "N-th Tribonacci Number", level: "Easy" }
+      - { id: 746,  title: "Min Cost Climbing Stairs", level: "Easy" }
+      - { id: 198,  title: "House Robber", level: "Medium" }
+      - { id: 790,  title: "Domino and Tromino Tiling", level: "Medium" }
+
+  - name: "DP - Multidimensional"
+    problems:
+      - { id: 62,   title: "Unique Paths", level: "Medium" }
+      - { id: 1143, title: "Longest Common Subsequence", level: "Medium" }
+      - { id: 714,  title: "Best Time to Buy and Sell Stock with Transaction Fee", level: "Medium" }
+      - { id: 72,   title: "Edit Distance", level: "Medium" }
+
+  - name: "Bit Manipulation"
+    problems:
+      - { id: 338,  title: "Counting Bits", level: "Easy" }
+      - { id: 136,  title: "Single Number", level: "Easy" }
+      - { id: 1318, title: "Minimum Flips to Make a OR b Equal to c", level: "Medium" }
+
+  - name: "Trie"
+    problems:
+      - { id: 208,  title: "Implement Trie (Prefix Tree)", level: "Medium" }
+      - { id: 1268, title: "Search Suggestions System", level: "Medium" }
+
+  - name: "Intervals"
+    problems:
+      - { id: 435,  title: "Non-overlapping Intervals", level: "Medium" }
+      - { id: 452,  title: "Minimum Number of Arrows to Burst Balloons", level: "Medium" }
+
+  - name: "Monotonic Stack"
+    problems:
+      - { id: 739,  title: "Daily Temperatures", level: "Medium" }
+      - { id: 901,  title: "Online Stock Span", level: "Medium" }
