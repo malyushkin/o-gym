@@ -1,6 +1,6 @@
 # SQL 50
 
-![Total_Progress](https://img.shields.io/badge/Total_Progress-0%2F50%20%280%25%29-blue)
+![Total_Progress](https://img.shields.io/badge/Total_Progress-16%2F50%20%2832%25%29-blue)
 
 This repository contains my solutions to the [SQL 50](https://leetcode.com/studyplan/top-sql-50/).
 
@@ -8,43 +8,43 @@ The SQL 50 is a curated list of 50 SQL problems designed to strengthen query wri
 
 ## Select
 
-(0/5)  
-![Progress](https://img.shields.io/badge/Progress-0%25-lightgrey)
+(5/5)  
+![Progress](https://img.shields.io/badge/Progress-100%25-brightgreen)
 
 | #    | Problem | Level | Solution |
 |------|---------|-------|----------|
-| 1757 | Recyclable and Low Fat Products | `Easy` | _TBA_ |
-| 584  | Find Customer Referee | `Easy` | _TBA_ |
-| 595  | Big Countries | `Easy` | _TBA_ |
-| 1148 | Article Views I | `Easy` | _TBA_ |
-| 1683 | Invalid Tweets | `Easy` | _TBA_ |
+| 1757 | Recyclable and Low Fat Products | `Easy` | [1757.py](easy_1757.sql) |
+| 584  | Find Customer Referee | `Easy` | [584.py](easy_584.sql) |
+| 595  | Big Countries | `Easy` | [595.py](easy_595.sql) |
+| 1148 | Article Views I | `Easy` | [1148.py](easy_1148.sql) |
+| 1683 | Invalid Tweets | `Easy` | [1683.py](easy_1683.sql) |
 
 ## Basic Joins
 
-(0/9)  
-![Progress](https://img.shields.io/badge/Progress-0%25-lightgrey)
+(5/9)  
+![Progress](https://img.shields.io/badge/Progress-56%25-yellowgreen)
 
 | #    | Problem | Level | Solution |
 |------|---------|-------|----------|
-| 1378 | Replace Employee ID With the Unique Identifier | `Easy` | _TBA_ |
-| 1068 | Product Sales Analysis I | `Easy` | _TBA_ |
+| 1378 | Replace Employee ID With the Unique Identifier | `Easy` | [1378.py](easy_1378.sql) |
+| 1068 | Product Sales Analysis I | `Easy` | [1068.py](easy_1068.sql) |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | `Easy` | _TBA_ |
 | 197  | Rising Temperature | `Easy` | _TBA_ |
 | 1661 | Average Time of Process per Machine | `Easy` | _TBA_ |
 | 577  | Employee Bonus | `Easy` | _TBA_ |
-| 1280 | Students and Examinations | `Easy` | _TBA_ |
-| 570  | Managers with at Least 5 Direct Reports | `Medium` | _TBA_ |
-| 1934 | Confirmation Rate | `Medium` | _TBA_ |
+| 1280 | Students and Examinations | `Easy` | [1280.py](easy_1280.sql) |
+| 570  | Managers with at Least 5 Direct Reports | `Medium` | [570.py](medium_570.sql) |
+| 1934 | Confirmation Rate | `Medium` | [1934.py](medium_1934.sql) |
 
 ## Basic Aggregate Functions
 
-(0/8)  
-![Progress](https://img.shields.io/badge/Progress-0%25-lightgrey)
+(2/8)  
+![Progress](https://img.shields.io/badge/Progress-25%25-yellow)
 
 | #    | Problem | Level | Solution |
 |------|---------|-------|----------|
-| 620  | Not Boring Movies | `Easy` | _TBA_ |
-| 1251 | Average Selling Price | `Easy` | _TBA_ |
+| 620  | Not Boring Movies | `Easy` | [620.py](easy_620.sql) |
+| 1251 | Average Selling Price | `Easy` | [1251.py](easy_1251.sql) |
 | 1075 | Project Employees I | `Easy` | _TBA_ |
 | 1633 | Percentage of Users Attended a Contest | `Easy` | _TBA_ |
 | 1211 | Queries Quality and Percentage | `Easy` | _TBA_ |
@@ -69,16 +69,16 @@ The SQL 50 is a curated list of 50 SQL problems designed to strengthen query wri
 
 ## Advanced Select and Joins
 
-(0/7)  
-![Progress](https://img.shields.io/badge/Progress-0%25-lightgrey)
+(4/7)  
+![Progress](https://img.shields.io/badge/Progress-57%25-yellowgreen)
 
 | #    | Problem | Level | Solution |
 |------|---------|-------|----------|
-| 1731 | The Number of Employees Which Report to Each Employee | `Easy` | _TBA_ |
-| 1789 | Primary Department for Each Employee | `Easy` | _TBA_ |
+| 1731 | The Number of Employees Which Report to Each Employee | `Easy` | [1731.py](easy_1731.sql) |
+| 1789 | Primary Department for Each Employee | `Easy` | [1789.py](easy_1789.sql) |
 | 610  | Triangle Judgement | `Easy` | _TBA_ |
-| 180  | Consecutive Numbers | `Medium` | _TBA_ |
-| 1164 | Product Price at a Given Date | `Medium` | _TBA_ |
+| 180  | Consecutive Numbers | `Medium` | [180.py](medium_180.sql) |
+| 1164 | Product Price at a Given Date | `Medium` | [1164.py](medium_1164.sql) |
 | 1204 | Last Person to Fit in the Bus | `Medium` | _TBA_ |
 | 1907 | Count Salary Categories | `Medium` | _TBA_ |
 

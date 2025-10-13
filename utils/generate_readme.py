@@ -20,7 +20,8 @@ IGNORE_DIRS = {
 }
 
 # Match easy_123.py / medium_123.py / hard_123.py
-PY_FILE = re.compile(r"^(easy|medium|hard)_(\d+)\.py$", re.I)
+# PY_FILE = re.compile(r"^(easy|medium|hard)_(\d+)\.py$", re.I)
+FILE_RE = re.compile(r"^(easy|medium|hard)_(\d+)\.(py|sql)$", re.I)
 
 
 def pct(a: int, b: int) -> int:
@@ -58,7 +59,7 @@ def scan_solutions(plan_dir: pathlib.Path) -> dict:
     for dp, dirnames, filenames in os.walk(plan_dir):
         dirnames[:] = [d for d in dirnames if d not in IGNORE_DIRS]
         for fn in filenames:
-            m = PY_FILE.match(fn)
+            m = FILE_RE.match(fn)
             if not m:
                 continue
 
