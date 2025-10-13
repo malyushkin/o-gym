@@ -1,0 +1,79 @@
+name: "SQL 50"
+platform: "LeetCode"
+url: "https://leetcode.com/studyplan/top-sql-50/"
+description: >
+  The SQL 50 is a curated list of 50 SQL problems designed to strengthen query writing skills frequently tested
+  in data-related technical interviews.\n 
+  All solutions are implemented using [PostgreSQL](https://www.postgresql.org/) syntax.
+
+sections:
+  - name: "Select"
+    problems:
+      - { id: 1757, title: "Recyclable and Low Fat Products", level: "Easy" }
+      - { id: 584,  title: "Find Customer Referee", level: "Easy" }
+      - { id: 595,  title: "Big Countries", level: "Easy" }
+      - { id: 1148, title: "Article Views I", level: "Easy" }
+      - { id: 1683, title: "Invalid Tweets", level: "Easy" }
+
+  - name: "Basic Joins"
+    problems:
+      - { id: 1378, title: "Replace Employee ID With the Unique Identifier", level: "Easy" }
+      - { id: 1068, title: "Product Sales Analysis I", level: "Easy" }
+      - { id: 1581, title: "Customer Who Visited but Did Not Make Any Transactions", level: "Easy" }
+      - { id: 197,  title: "Rising Temperature", level: "Easy" }
+      - { id: 1661, title: "Average Time of Process per Machine", level: "Easy" }
+      - { id: 577,  title: "Employee Bonus", level: "Easy" }
+      - { id: 1280, title: "Students and Examinations", level: "Easy" }
+      - { id: 570,  title: "Managers with at Least 5 Direct Reports", level: "Medium" }
+      - { id: 1934, title: "Confirmation Rate", level: "Medium" }
+
+  - name: "Basic Aggregate Functions"
+    problems:
+      - { id: 620,  title: "Not Boring Movies", level: "Easy" }
+      - { id: 1251, title: "Average Selling Price", level: "Easy" }
+      - { id: 1075, title: "Project Employees I", level: "Easy" }
+      - { id: 1633, title: "Percentage of Users Attended a Contest", level: "Easy" }
+      - { id: 1211, title: "Queries Quality and Percentage", level: "Easy" }
+      - { id: 1193, title: "Monthly Transactions I", level: "Medium" }
+      - { id: 1174, title: "Immediate Food Delivery II", level: "Medium" }
+      - { id: 550,  title: "Game Play Analysis IV", level: "Medium" }
+
+  - name: "Sorting and Grouping"
+    problems:
+      - { id: 2356, title: "Number of Unique Subjects Taught by Each Teacher", level: "Easy" }
+      - { id: 1141, title: "User Activity for the Past 30 Days I", level: "Easy" }
+      - { id: 1070, title: "Product Sales Analysis III", level: "Medium" }
+      - { id: 596,  title: "Classes With at Least 5 Students", level: "Easy" }
+      - { id: 1729, title: "Find Followers Count", level: "Easy" }
+      - { id: 619,  title: "Biggest Single Number", level: "Easy" }
+      - { id: 1045, title: "Customers Who Bought All Products", level: "Medium" }
+
+  - name: "Advanced Select and Joins"
+    problems:
+      - { id: 1731, title: "The Number of Employees Which Report to Each Employee", level: "Easy" }
+      - { id: 1789, title: "Primary Department for Each Employee", level: "Easy" }
+      - { id: 610,  title: "Triangle Judgement", level: "Easy" }
+      - { id: 180,  title: "Consecutive Numbers", level: "Medium" }
+      - { id: 1164, title: "Product Price at a Given Date", level: "Medium" }
+      - { id: 1204, title: "Last Person to Fit in the Bus", level: "Medium" }
+      - { id: 1907, title: "Count Salary Categories", level: "Medium" }
+
+  - name: "Subqueries"
+    problems:
+      - { id: 1978, title: "Employees Whose Manager Left the Company", level: "Easy" }
+      - { id: 626,  title: "Exchange Seats", level: "Medium" }
+      - { id: 1321, title: "Restaurant Growth", level: "Medium" }
+      - { id: 1341, title: "Movie Rating", level: "Medium" }
+      - { id: 602,  title: "Friend Requests II: Who Has the Most Friends", level: "Medium" }
+      - { id: 585,  title: "Investments in 2016", level: "Medium" }
+      - { id: 185,  title: "Department Top Three Salaries", level: "Hard" }
+
+  - name: "Advanced String Functions / Regex / Clause"
+    problems:
+      - { id: 1667, title: "Fix Names in a Table", level: "Easy" }
+      - { id: 1527, title: "Patients With a Condition", level: "Easy" }
+      - { id: 176,  title: "Second Highest Salary", level: "Medium" }
+      - { id: 1484, title: "Group Sold Products By The Date", level: "Easy" }
+      - { id: 196,  title: "Delete Duplicate Emails", level: "Easy" }
+      - { id: 1327, title: "List the Products Ordered in a Period", level: "Easy" }
+      - { id: 1517, title: "Find Users With Valid E-Mails", level: "Easy" }

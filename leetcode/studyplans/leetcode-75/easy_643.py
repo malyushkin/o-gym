@@ -72,7 +72,7 @@ class Solution(object):
 
 s = Solution()
 
-file_case_nums, file_case_k = read_case("643_test")
+file_case_nums, file_case_k = read_case("easy_643_test-case-0")
 
 assert s.findMaxAverage(nums=[1, 12, -5, -6, 50, 3], k=4) == 12.75000
 assert s.findMaxAverage(nums=[5], k=1) == 5.0

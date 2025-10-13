@@ -48,7 +48,7 @@ def color_for(progress: int) -> str:
 
 def find_plan_dirs():
     # Looks for **/plan.yaml
-    for y in ROOT.glob("**/plan.yaml"):
+    for y in ROOT.glob("**/studyplans/*/plan.yaml"):
         yield y.parent
 
 
@@ -156,7 +156,7 @@ def render_root_readme(summary: list):
 def main():
     plans = list(find_plan_dirs())
     if not plans:
-        print("No plans found (expected **/plan.yaml).", file=sys.stderr)
+        print("No plans found (expected **/studyplans/*/plan.yaml).", file=sys.stderr)
         sys.exit(1)
 
     summary = []
