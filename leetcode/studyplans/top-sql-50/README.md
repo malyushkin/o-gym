@@ -1,6 +1,6 @@
 # SQL 50
 
-![Total_Progress](https://img.shields.io/badge/Total_Progress-16%2F50%20%2832%25%29-blue)
+![Total_Progress](https://img.shields.io/badge/Total_Progress-18%2F50%20%2836%25%29-blue)
 
 This repository contains my solutions to the [SQL 50](https://leetcode.com/studyplan/top-sql-50/).
 
@@ -21,15 +21,15 @@ The SQL 50 is a curated list of 50 SQL problems designed to strengthen query wri
 
 ## Basic Joins
 
-(5/9)  
-![Progress](https://img.shields.io/badge/Progress-56%25-yellowgreen)
+(7/9)  
+![Progress](https://img.shields.io/badge/Progress-78%25-green)
 
 | #    | Problem | Level | Solution |
 |------|---------|-------|----------|
 | 1378 | Replace Employee ID With the Unique Identifier | `Easy` | [1378.py](easy_1378.sql) |
 | 1068 | Product Sales Analysis I | `Easy` | [1068.py](easy_1068.sql) |
-| 1581 | Customer Who Visited but Did Not Make Any Transactions | `Easy` | _TBA_ |
-| 197  | Rising Temperature | `Easy` | _TBA_ |
+| 1581 | Customer Who Visited but Did Not Make Any Transactions | `Easy` | [1581.py](easy_1581.sql) |
+| 197  | Rising Temperature | `Easy` | [197.py](easy_197.sql) |
 | 1661 | Average Time of Process per Machine | `Easy` | _TBA_ |
 | 577  | Employee Bonus | `Easy` | _TBA_ |
 | 1280 | Students and Examinations | `Easy` | [1280.py](easy_1280.sql) |
