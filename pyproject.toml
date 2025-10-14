@@ -19,7 +19,7 @@ build-backend = "setuptools.build_meta"
 [tool.setuptools]
 packages = []
 
-[project.optional-dependencies]ф
+[project.optional-dependencies]
 dev = [
-    "pre-commit>=3.0"б
+    "pre-commit>=3.0"
 ]
