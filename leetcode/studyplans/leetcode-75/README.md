@@ -1,6 +1,6 @@
 # LeetCode 75
 
-![Total_Progress](https://img.shields.io/badge/Total_Progress-18%2F75%20%2824%25%29-blue)
+![Total_Progress](https://img.shields.io/badge/Total_Progress-19%2F75%20%2825%25%29-blue)
 
 This repository contains my solutions to the [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/).
 
@@ -71,12 +71,12 @@ LeetCode 75 is a curated list of 75 problems designed to build a strong foundati
 
 ## Stack
 
-(0/3)  
-![Progress](https://img.shields.io/badge/Progress-0%25-lightgrey)
+(1/3)  
+![Progress](https://img.shields.io/badge/Progress-33%25-yellow)
 
 | #    | Problem | Level | Solution |
 |------|---------|-------|----------|
-| 2390 | Removing Stars From a String | `Medium` | _TBA_ |
+| 2390 | Removing Stars From a String | `Medium` | [2390.py](medium_2390.py) |
 | 735  | Asteroid Collision | `Medium` | _TBA_ |
 | 394  | Decode String | `Medium` | _TBA_ |
 
