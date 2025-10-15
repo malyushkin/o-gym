@@ -15,7 +15,7 @@ IGNORE_DIRS = {
     ".venv",
     ".vscode",
     "__pycache__",
-    "node_modules"
+    "node_modules",
     "venv",
 }
 
